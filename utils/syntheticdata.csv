@@ -1,0 +1,11 @@
+farm_id,soil_health,climate_exposure,irrigation_reliability,crop_type,pest_risk,risk_score
+1,70,55,60,Rice,30,47
+2,80,40,70,Wheat,20,38
+3,60,70,50,Cotton,50,58
+4,75,50,65,Maize,25,42
+5,65,65,55,Rice,40,52
+6,85,35,75,Wheat,15,33
+7,55,80,45,Cotton,60,65
+8,72,58,62,Maize,28,46
+9,68,62,58,Rice,35,49
+10,78,45,68,Wheat,22,39
